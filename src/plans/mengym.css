@@ -1,0 +1,58 @@
+.plans-comp{
+    padding:2rem 3rem;
+    background-color: black;
+}
+.plans-nav::-webkit-scrollbar{
+    display: none;
+}
+.plans-btn{
+    background-color: black;
+    border: 2px solid white;
+    color:  #9ACC1E;
+    margin: 0 2rem;  
+}
+.plan-cards{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    color: aliceblue;
+   
+}
+.plan-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:1rem;
+    border: 1px solid #fff;
+    margin:1rem 2rem;
+    border-radius: 10px;
+}
+.plan-card h3{
+    color: #9ACC1E;
+}
+.plan-card .active{
+    font-size: larger;
+    padding:0.5rem 3rem;
+    cursor: pointer;
+}
+.active:hover{
+    transform: scale(1.02);
+    transition: all 0.2s ease;
+}
+@media (max-width:720px){
+    .plans-comp{
+    padding:1rem 0rem;
+}
+.plan-card{
+    width: 14rem;
+}
+
+
+    .active{
+        font-size: medium;
+        height: 3rem;
+        padding: 0;
+    }
+    .plans-btn{
+    margin: 0 6rem;  
+}
+}
