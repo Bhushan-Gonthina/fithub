@@ -2,6 +2,11 @@
     padding:2rem 3rem;
     background-color: black;
 }
+.plans-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .plans-nav::-webkit-scrollbar{
     display: none;
 }
@@ -42,8 +47,21 @@
     .plans-comp{
     padding:1rem 0rem;
 }
+.plans-content{
+    margin: 0;
+    padding: 0;
+}
 .plan-card{
     width: 14rem;
+}
+.plan-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:0.3rem;
+    border: 1px solid #fff;
+    margin:1rem 1rem;
+    border-radius: 10px;
 }
 
 

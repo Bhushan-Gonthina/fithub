@@ -73,6 +73,9 @@ img{width: 100%; height: 100%;}
 
 p .link{text-decoration: none; color: white;}
 @media (max-width:520px){
+    .head{
+    padding: 1rem;
+}
 
  .menu-bar{
     display: flex; 

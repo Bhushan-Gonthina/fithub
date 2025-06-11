@@ -32,6 +32,7 @@ function Validity(){
             </div>
             </div>
             <h1>Past</h1>
+            <div className="before">
             <div className="second">
                 <div className="past">
                     <img src={past1}/>
@@ -54,6 +55,7 @@ function Validity(){
                    <button className="kmore">KnowMore </button>
                 </div>
 
+            </div>
             </div>
         </div>
         <Footer/>

@@ -118,11 +118,16 @@
 @media (max-width:420px){
     .cont{
     
-    padding: 3rem 2rem 2rem 2rem;
+    padding: 3rem 1rem 2rem 1rem;
 }
 .cont2 .trail p{
     width: 16rem;
 }
+.cards{
+   
+     gap:2rem;
+    }
+.gettrailbtn{background-color: antiquewhite;}
 
 }
 @media (min-width:420px) and (max-width:510px){
