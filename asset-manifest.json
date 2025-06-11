@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fithub/static/css/main.36bf8dfe.css",
-    "main.js": "/fithub/static/js/main.2b95c3bb.js",
+    "main.css": "/fithub/static/css/main.a9a440be.css",
+    "main.js": "/fithub/static/js/main.8d0e6b40.js",
     "static/js/453.fd0b5875.chunk.js": "/fithub/static/js/453.fd0b5875.chunk.js",
     "static/media/outdoore4.png": "/fithub/static/media/outdoore4.ff6b55dd1b1417c4a733.png",
     "static/media/outdoore7.png": "/fithub/static/media/outdoore7.d73f1d19d16d0fa47cf5.png",
@@ -40,12 +40,12 @@
     "static/media/past1.png": "/fithub/static/media/past1.3efc4a342f3bb43c7358.png",
     "static/media/mengym3.png": "/fithub/static/media/mengym3.f349c49b4f67c2154131.png",
     "index.html": "/fithub/index.html",
-    "main.36bf8dfe.css.map": "/fithub/static/css/main.36bf8dfe.css.map",
-    "main.2b95c3bb.js.map": "/fithub/static/js/main.2b95c3bb.js.map",
+    "main.a9a440be.css.map": "/fithub/static/css/main.a9a440be.css.map",
+    "main.8d0e6b40.js.map": "/fithub/static/js/main.8d0e6b40.js.map",
     "453.fd0b5875.chunk.js.map": "/fithub/static/js/453.fd0b5875.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36bf8dfe.css",
-    "static/js/main.2b95c3bb.js"
+    "static/css/main.a9a440be.css",
+    "static/js/main.8d0e6b40.js"
   ]
 }
